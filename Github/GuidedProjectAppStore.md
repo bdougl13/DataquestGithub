@@ -5,7 +5,7 @@
 This project is about analyzing data for both Android and iOS mobile apps available on both Apple Store and Google Play. The pseudo-company builds free apps where the main source of revenue is from in-app ads. The goal is to analyze the data to help developers understand what type of apps can attract more users.
 
 Add link to documentation*
-###### Created and Supported by DataQuest
+###### Supported by DataQuest
 
 
 
